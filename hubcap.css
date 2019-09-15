@@ -1,0 +1,16 @@
+
+.green {
+    color:#04521d;
+}
+.blue {
+    color: #04521d;
+}
+
+.video {
+    display: inline-block;
+}
+
+.description {
+    display: inline-block;
+    vertical-align: top;
+}
